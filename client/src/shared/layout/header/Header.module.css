@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  background-color: #0c6fc5;
+  min-height: 80px;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.link {
+    color: black;
+}

@@ -1,0 +1,14 @@
+.conteiner {
+    color: #0c6fc5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    height: 100vh;
+}
+
+.error {
+    border-radius: 10px;
+    border: 2px solid gray;
+    padding:100px;
+}
